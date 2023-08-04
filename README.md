@@ -1,2 +1,2 @@
 # nonogram
-Simple Nonogram solver
+a simple Nonogram solver in python
